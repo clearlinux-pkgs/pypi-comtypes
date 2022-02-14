@@ -1,5 +1,5 @@
 PKG_NAME := pypi-comtypes
-URL = https://files.pythonhosted.org/packages/c4/37/c53b19c2c99208116ba813e3553a95b536cdde81c8183a87361537866f87/comtypes-1.1.10.tar.gz
+URL = https://files.pythonhosted.org/packages/a6/5f/8819e096affc09a931b89d86204aac7d5e0afa25012918da92d20253dbc2/comtypes-1.1.11.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
