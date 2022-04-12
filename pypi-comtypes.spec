@@ -4,7 +4,7 @@
 #
 Name     : pypi-comtypes
 Version  : 1.1.11
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/a6/5f/8819e096affc09a931b89d86204aac7d5e0afa25012918da92d20253dbc2/comtypes-1.1.11.zip
 Source0  : https://files.pythonhosted.org/packages/a6/5f/8819e096affc09a931b89d86204aac7d5e0afa25012918da92d20253dbc2/comtypes-1.1.11.zip
 Summary  : Pure Python COM package
@@ -72,7 +72,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1646765537
+export SOURCE_DATE_EPOCH=1649730428
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
